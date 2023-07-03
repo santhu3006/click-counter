@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 30px;
+  color: #2d3a35;
+}
+
+.span {
+  color: #c20a72;
+}
+
+.button {
+  background-color: blue;
+}
